@@ -1,0 +1,23 @@
+{
+  "name": "vscode-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokra/vscode-test.git"
+  },
+  "author": "tomas.kramaric@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tokra/vscode-test/issues"
+  },
+  "homepage": "https://github.com/tokra/vscode-test#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "type": "module"
+}
